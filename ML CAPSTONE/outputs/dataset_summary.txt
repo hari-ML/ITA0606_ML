@@ -1,0 +1,9 @@
+=== DATASET SUMMARY ===
+Raw shape: (15036, 216)
+Rows with NaN/? dropped: 5
+Exact duplicates dropped: 7772
+Clean shape: (7259, 216)
+Conflicting label rows: 6 (3 unique patterns)
+Final Class Counts: Benign (0) = 5540, Malware (1) = 1719
+Train samples: 5807 (Malware: 1375, Benign: 4432)
+Test samples:  1452 (Malware: 344, Benign: 1108)

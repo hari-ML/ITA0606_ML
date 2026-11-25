@@ -1,0 +1,12 @@
+Real, open-source, benign APKs for testing the APK Scanner (downloaded from official GitHub Releases).
+
+NewPipe_v0.29.3.apk            https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.29.3
+Aegis_v3.4.3.apk               https://github.com/beemdevelopment/Aegis/releases/tag/v3.4.3
+Fossify_Calendar_1.12.2.apk    https://github.com/FossifyOrg/Calendar/releases/tag/1.12.2
+Fossify_Gallery_1.14.3_arm64.apk  https://github.com/FossifyOrg/Gallery/releases/tag/1.14.3
+
+SHA-256:
+fa091c91912c0d56ec3553394fac4158f9a9d178e93bcbb35419601d788cb528  Aegis_v3.4.3.apk
+2825816d0a972bd85eb289e556221293fadecfd3179a4a2531bde6f89c6f0238  Fossify_Calendar_1.12.2.apk
+9fd3e3ba6843825728872cc9e7ca236450fb207c69fe7423b7aeb83dca42da67  Fossify_Gallery_1.14.3_arm64.apk
+0ab2b9b5103bd3173cb4540f9a2fe660d93a44ac17254e7d13b26d1d8f012192  NewPipe_v0.29.3.apk

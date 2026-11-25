@@ -1,0 +1,4 @@
+﻿reference_apks/
+venv/
+__pycache__/
+*.pkl

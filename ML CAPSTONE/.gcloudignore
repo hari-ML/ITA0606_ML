@@ -1,0 +1,39 @@
+# Do NOT ignore model/, assets/, .streamlit/, src/, app.py, styles.py, Dockerfile, requirements.txt
+venv/
+.venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.git/
+.gitignore
+.env
+.env.*
+
+# Exclude test APKs, local training datasets/duplicates, and large presentations
+test_apks/
+reference_apks/
+models/
+data/
+outputs/
+file/
+Android_Malware_Detection_Capstone.pptx
+*.apk
+*.pptx
+*.log
+*_output.txt
+
+# Exclude training/dev-only scripts
+src/train.py
+src/train_apk.py
+src/run_checks.py
+src/test_lookup.py
+src/validate_apks.py
+requirements.md
+HACKATHON_TOOLKIT_*.md
+README.md
+README_DEPLOY.md
+deploy.ps1
+setup_gcloud.ps1

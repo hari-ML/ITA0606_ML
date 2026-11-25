@@ -1,0 +1,42 @@
+# Python environments & caches
+venv/
+.venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Version control & local secrets
+.git/
+.gitignore
+.env
+.env.*
+
+# Large test/reference APKs and offline training artifacts (keep model/ !)
+test_apks/
+reference_apks/
+models/
+data/
+outputs/
+file/
+Android_Malware_Detection_Capstone.pptx
+*.apk
+*.pptx
+*.log
+*_output.txt
+
+# Local dev / training-only scripts and docs
+src/train.py
+src/train_apk.py
+src/run_checks.py
+src/test_lookup.py
+src/validate_apks.py
+requirements.md
+HACKATHON_TOOLKIT_*.md
+README.md
+README_DEPLOY.md
+deploy.ps1
+setup_gcloud.ps1
